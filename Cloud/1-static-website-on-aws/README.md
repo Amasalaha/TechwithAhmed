@@ -26,3 +26,9 @@ Connect the custom domain name to the S3 bucket:
 - It may take a few minutes for the changes to take effect. Once everything is set up, users can access the website by typing in the custom domain name
 
 In summary, this project involved creating a custom domain name using Amazon Route 53 and hosting a static website on Amazon S3. By enabling static website hosting and connecting the domain name to the S3 bucket, users can now view the website by typing in the custom domain name.
+
+- Final website link - https://s3.eu-west-2.amazonaws.com/ahmedproject.click/Index.html
+- Picture of hosted zone page
+![image](https://user-images.githubusercontent.com/89149327/222529285-eee937a8-fecb-417b-b60d-3f617fb69ca3.png)
+
+
