@@ -24,7 +24,8 @@ There are several benefits of cloud computing, including:
 
 - Accessibility: Cloud computing allows users to access applications and data from any device with an internet connection.
 
-# Security: Cloud providers typically have robust security measures in place to protect their clients' data.
+# Security: 
+Cloud providers typically have robust security measures in place to protect their clients' data.
 
 # Cloud Challenges
 While there are many benefits to cloud computing, there are also some challenges to consider, including:
