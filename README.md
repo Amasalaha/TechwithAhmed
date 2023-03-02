@@ -22,3 +22,9 @@ Cloud engineering is a growing field that involves the design, implementation, a
 - Cloud computing is a rapidly evolving field, so it's important to keep learning and updating your skills. You can stay current by reading industry blogs, attending webinars and workshops, and taking online courses. Staying up-to-date with the latest trends and technologies will help you become a better cloud engineer and advance your career.
 
 In conclusion, becoming a cloud engineer requires a solid understanding of cloud computing basics, hands-on experience, certifications, community involvement, and ongoing learning. By following this beginner roadmap, you can start your journey towards becoming a skilled cloud engineer.
+# Resources 
+- https://explore.skillbuilder.aws/learn/course/1851/play/45289/aws-technical-essentials
+- https://www.udemy.com/course/aws-lambda-serverless-architecture/
+- https://workshops.aws/
+- https://aws.amazon.com/architecture/back-to-basics
+- https://youtu.be/r4YIdn2eTm4
