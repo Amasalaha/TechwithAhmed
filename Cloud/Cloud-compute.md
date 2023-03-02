@@ -1,3 +1,10 @@
+---
+title: '#TechwithAhmed - Cloud'
+published: false
+description: #TechwithAhmed - Cloud
+tags: 'My Cloud Journey, Choose a Cloud Platform'
+---
+---
 # AWS Compute
 AWS Compute is a suite of cloud-based services offered by Amazon Web Services (AWS) that provides scalable and flexible computing resources. 
 AWS Compute includes a range of services that allow businesses to run applications and services on the cloud, including Amazon Elastic Compute Cloud (EC2), 
