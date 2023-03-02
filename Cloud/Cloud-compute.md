@@ -59,7 +59,7 @@ Both services allow users to easily manage and scale containerized applications 
 
 In conclusion, AWS container services provide a simple and efficient way to deploy, manage, and scale containerized applications. These services enable developers to focus on writing code while AWS manages the infrastructure needed to run containerized applications.
 
-# AWS LAMBDA
+# AWS Lambda
 
 AWS Lambda is a compute service that allows developers to run code without provisioning or managing servers. With Lambda, developers can upload their code to the AWS cloud and Lambda takes care of the rest, automatically scaling and managing the infrastructure needed to run the code.
 
