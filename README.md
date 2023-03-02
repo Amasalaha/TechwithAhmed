@@ -1,7 +1,5 @@
 # TechwithAhmed
 # My Cloud Journey 
-- Join me on my journey into the Cloud industry, where I will provide regular updates on my progress, share essays, and showcase hands-on projects aimed at advancing my knowledge and expertise in Cloud computing. 
-Cloud engineering is a growing field that involves the design, implementation, and maintenance of cloud-based infrastructure and services. If you're interested in becoming a cloud engineer, here is a beginner roadmap to help you get started.
 
 1. Learn the Basics
 - The first step in becoming a cloud engineer is to learn the basics of cloud computing. This includes understanding the different types of cloud services, such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). You should also learn about cloud deployment models, including public, private, and hybrid clouds. Familiarizing yourself with cloud computing terminology and concepts will help you better understand the field.
