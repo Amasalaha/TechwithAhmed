@@ -58,3 +58,13 @@ Amazon EKS is a fully managed Kubernetes service that simplifies the deployment,
 Both services allow users to easily manage and scale containerized applications using an intuitive web interface or through APIs. Users can also easily integrate these services with other AWS services like Amazon S3, Amazon RDS, and Amazon DynamoDB to build highly scalable and reliable applications.
 
 In conclusion, AWS container services provide a simple and efficient way to deploy, manage, and scale containerized applications. These services enable developers to focus on writing code while AWS manages the infrastructure needed to run containerized applications.
+
+# AWS LAMBDA
+
+AWS Lambda is a compute service that allows developers to run code without provisioning or managing servers. With Lambda, developers can upload their code to the AWS cloud and Lambda takes care of the rest, automatically scaling and managing the infrastructure needed to run the code.
+
+One of the key benefits of AWS Lambda is its flexibility. It supports multiple programming languages, including Node.js, Python, Java, C#, and Go, which allows developers to choose the language that best suits their needs. In addition, AWS Lambda integrates with other AWS services, such as Amazon S3, Amazon DynamoDB, and Amazon API Gateway, allowing developers to easily build and deploy serverless applications.
+
+Another benefit of AWS Lambda is its cost-effectiveness. With Lambda, users only pay for the compute time that their code actually uses. This means that developers can run their code without worrying about the cost of maintaining and scaling infrastructure, making it an attractive option for both small and large-scale applications.
+
+Overall, AWS Lambda is a powerful and versatile service that allows developers to build and deploy serverless applications with ease. It provides a cost-effective way to manage infrastructure, allowing developers to focus on writing code and building applications, rather than worrying about managing servers and other infrastructure components.
