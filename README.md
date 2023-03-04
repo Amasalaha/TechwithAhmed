@@ -27,4 +27,5 @@ In conclusion, becoming a cloud engineer requires a solid understanding of cloud
 - https://www.udemy.com/course/aws-lambda-serverless-architecture/
 - https://workshops.aws/
 - https://aws.amazon.com/architecture/back-to-basics
-- https://youtu.be/r4YIdn2eTm4
+- https://youtu.be/r4YIdn2eTm4 
+- @Techwithlucy
