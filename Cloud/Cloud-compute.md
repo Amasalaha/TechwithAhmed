@@ -40,6 +40,10 @@ Overall, Amazon EC2 is a powerful and versatile service that allows developers t
 
 The Amazon EC2 Instance Lifecycle refers to the various stages that an Amazon EC2 instance goes through during its lifetime. There are several key stages in the lifecycle of an Amazon EC2 instance, including launching, running, stopping, and terminating.
 
+
+![image](https://user-images.githubusercontent.com/89149327/222928544-4fa3e4a1-a395-424f-82a9-2f62db438691.png)
+
+
 When an instance is launched, it is assigned a unique identifier and given a set of resources, including CPU, memory, and storage. Once launched, the instance begins running and can be accessed by users via the internet. Users can connect to the instance via SSH or other remote access protocols to install software, configure the instance, and run applications.
 
 If an instance needs to be stopped, users can do so through the Amazon EC2 console or API. Stopping an instance preserves its instance metadata and allows it to be restarted later, without losing any data or configurations. In contrast, terminating an instance permanently deletes it and all associated data, configurations, and metadata.
