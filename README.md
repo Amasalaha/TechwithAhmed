@@ -1,31 +1,46 @@
-# TechwithAhmed
-# My Cloud Journey 
+---
+title: '#TechwithAhmed - Cloud'
+published: false
+description: #TechwithAhmed - Cloud
+tags: 'My Cloud Journey, Learn the Basics'
+---
+---
 
-Cloud engineering is a growing field that involves the design, implementation, and maintenance of cloud-based infrastructure and services. If you're interested in becoming a cloud engineer, here is a beginner roadmap to help you get started.
+# Cloud
+Cloud computing is a rapidly growing technology that has revolutionized the way we store, manage and access data. It allows users to access applications and data from any device connected to the internet, making it an incredibly convenient and flexible solution. In this essay, we will cover some basic cloud fundamentals along with pictures.
 
-1. Learn the Basics
-- The first step in becoming a cloud engineer is to learn the basics of cloud computing. This includes understanding the different types of cloud services, such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). You should also learn about cloud deployment models, including public, private, and hybrid clouds. Familiarizing yourself with cloud computing terminology and concepts will help you better understand the field.
+# What is Cloud Computing?
+Cloud computing is the delivery of computing services, including servers, storage, databases, networking, software, analytics, and intelligence, over the internet. Cloud providers offer these services on-demand, allowing businesses and individuals to access them as needed without the need for physical infrastructure.
 
-2. Choose a Cloud Platform
-- There are several cloud platforms available, including Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). Each platform has its own strengths and weaknesses, so it's important to choose one that aligns with your goals and interests. You can start by exploring each platform's website, documentation, and tutorials to get a sense of what they offer.
+# Types of Cloud Services
+There are three types of cloud services: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
 
-3. Get Hands-On Experience
-- One of the best ways to learn cloud engineering is by getting hands-on experience. You can start by setting up a personal account on your chosen cloud platform and experimenting with the different services and tools. You can also try building a simple web application or deploying a pre-built application on the cloud platform.
+IaaS provides the building blocks of computing infrastructure, such as virtual machines, storage, and networking. PaaS is a platform for developing, testing, and deploying applications. SaaS delivers software applications over the internet, eliminating the need for users to install and run applications on their own computers.
 
-4. Get Certified
-- Cloud certifications can be a valuable way to demonstrate your knowledge and expertise to potential employers. There are several cloud certifications available, including AWS Certified Solutions Architect, Microsoft Certified: Azure Administrator Associate, and Google Cloud Certified - Associate Cloud Engineer. These certifications require passing an exam that tests your knowledge of the cloud platform and its services.
+# Public, Private, and Hybrid Cloud
+Cloud computing services can be delivered in three different ways: public, private, and hybrid.
 
-5. Join a Community
-- Joining a community of cloud engineers can be a great way to learn from others, share your experiences, and stay up-to-date with the latest trends and developments in the field. You can join online communities, such as forums and social media groups, or attend local meetups and conferences.
+Public clouds are shared by multiple organizations and accessed via the internet. Private clouds are dedicated to a single organization and are often hosted on-premises or in a data center. Hybrid clouds combine both public and private cloud infrastructure to provide the benefits of both.
 
-6. Keep Learning
-- Cloud computing is a rapidly evolving field, so it's important to keep learning and updating your skills. You can stay current by reading industry blogs, attending webinars and workshops, and taking online courses. Staying up-to-date with the latest trends and technologies will help you become a better cloud engineer and advance your career.
+# Cloud Benefits
+There are several benefits of cloud computing, including:
 
-In conclusion, becoming a cloud engineer requires a solid understanding of cloud computing basics, hands-on experience, certifications, community involvement, and ongoing learning. By following this beginner roadmap, you can start your journey towards becoming a skilled cloud engineer.
-# Resources 
-- https://explore.skillbuilder.aws/learn/course/1851/play/45289/aws-technical-essentials
-- https://www.udemy.com/course/aws-lambda-serverless-architecture/
-- https://workshops.aws/
-- https://aws.amazon.com/architecture/back-to-basics
-- https://youtu.be/r4YIdn2eTm4 
-- @Techwithlucy
+- Scalability: Cloud computing services can be scaled up or down as needed, allowing organizations to easily adapt to changing demands.
+
+- Cost-effectiveness: Cloud services are typically less expensive than building and maintaining physical infrastructure.
+
+- Accessibility: Cloud computing allows users to access applications and data from any device with an internet connection.
+
+# Security: 
+Cloud providers typically have robust security measures in place to protect their clients' data.
+
+# Cloud Challenges
+While there are many benefits to cloud computing, there are also some challenges to consider, including:
+
+- Dependence on the internet: Cloud services rely on a stable internet connection, which can be a challenge in some areas.
+
+- Data security and privacy: While cloud providers have robust security measures, there is still a risk of data breaches.
+
+- Integration: Integrating cloud services with existing IT infrastructure can be a complex process.
+
+In conclusion, cloud computing is a rapidly growing technology that has transformed the way we store, manage and access data. With the right approach, it can provide significant benefits to organizations of all sizes. However, it is important to consider the challenges and ensure that the chosen cloud solution meets the needs of the organization.
