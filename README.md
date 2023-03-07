@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/89149327/223519285-a4a1d938-12ca-4ad1-ac67-38801d947023.png" alt="example image" width="400" height="400">
+
+
 
 # Cloud
 Cloud computing is a rapidly growing technology that has revolutionized the way we store, manage and access data. It allows users to access applications and data from any device connected to the internet, making it an incredibly convenient and flexible solution. In this essay, we will cover some basic cloud fundamentals along with pictures.
@@ -24,7 +27,7 @@ There are several benefits of cloud computing, including:
 
 - Accessibility: Cloud computing allows users to access applications and data from any device with an internet connection.
 
-# Security: 
+# Security
 Cloud providers typically have robust security measures in place to protect their clients' data.
 
 # Cloud Challenges
