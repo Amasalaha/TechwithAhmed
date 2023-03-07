@@ -1,5 +1,6 @@
 
-# AWS
+# <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="200" height="200"/>
 I choose to learn AWS as a cloud provider due to its wide range of services, global infrastructure, scalability, reliability, security, and cost-effectiveness. 
 It is also the most popular cloud provider in the market, offering many job opportunities and resources for learning and certification.
 # Introduction to Amazon Web Services
@@ -23,6 +24,9 @@ Its vast range of services, global infrastructure, and ease of use make it an at
 # Interacting on AWS
 Interacting with AWS is a fundamental skill for anyone working with cloud-based systems. AWS provides a range of tools and interfaces that allow users to interact with the platform, including the AWS Management Console, command-line interface (CLI), and software development kits (SDKs) for a range of programming languages.
 
+<img src="https://user-images.githubusercontent.com/89149327/223527134-204cc649-b129-4dc5-9f20-292418726768.png" alt="example image" width="600">
+
+
 The AWS Management Console is a web-based interface that allows users to manage and monitor their AWS resources. The console provides a user-friendly interface for tasks such as launching EC2 instances, creating S3 buckets, and configuring security groups.
 
 The AWS CLI is a command-line interface that allows users to interact with AWS using command-line commands. The CLI provides a more powerful and efficient way to interact with AWS resources, and is often used by developers and system administrators who need to automate tasks or work with large numbers of resources.
@@ -35,5 +39,9 @@ Overall, interacting with AWS requires a solid understanding of the AWS platform
 
 # Security And AWS Shared Responsibility Method
 - The AWS shared responsibility model is a security model that defines the responsibilities of both AWS and its customers for the security of the cloud. AWS is responsible for the security of the cloud, while customers are responsible for the security of their data and applications in the cloud. This model ensures a secure and reliable cloud environment for all users
+
+
+<img src="https://user-images.githubusercontent.com/89149327/223528010-3f7c85b9-d0f9-45d5-a50f-214972067377.png" alt="example image" width="600">
+
 
 - AWS Identity and Access Management (IAM) is a powerful tool for managing security in AWS. IAM allows users to create and manage users and groups, set permissions for resources, and enforce multi-factor authentication (MFA) for added security. By using IAM, users can ensure that their AWS resources are secure and accessible only to authorized users.
