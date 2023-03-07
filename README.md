@@ -11,8 +11,13 @@ Cloud computing is the delivery of computing services, including servers, storag
 ### Types of Cloud Services
 There are three types of cloud services: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
 
+<img src= "https://user-images.githubusercontent.com/89149327/223529937-f5c830e6-9129-4e0a-980f-caee23fd27a0.png" alt="example image" width="500">
+
+
+
+
 1. IaaS provides the building blocks of computing infrastructure, such as virtual machines, storage, and networking. 2. 
-2. PaaS is a platform for developing, testing, and deploying applications. 3. 
+2. PaaS is a platform for developing, testing, and deploying applications.
 3. SaaS delivers software applications over the internet, eliminating the need for users to install and run applications on their own computers.
 
 ### Public, Private, and Hybrid Cloud
