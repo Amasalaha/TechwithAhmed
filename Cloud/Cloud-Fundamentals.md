@@ -1,10 +1,4 @@
----
-title: '#TechwithAhmed - Cloud'
-published: false
-description: #TechwithAhmed - Cloud
-tags: 'My Cloud Journey, Learn the Basics'
----
----
+
 
 # Cloud
 Cloud computing is a rapidly growing technology that has revolutionized the way we store, manage and access data. It allows users to access applications and data from any device connected to the internet, making it an incredibly convenient and flexible solution. In this essay, we will cover some basic cloud fundamentals along with pictures.
