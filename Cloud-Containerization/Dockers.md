@@ -1,8 +1,14 @@
-# Docker and Kubernetes
+# Docker and Kubernetes </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+
 
 Docker and Kubernetes are two of the most popular technologies in modern software development, used for creating, deploying, and managing applications in containers. Docker is a platform for developing, packaging, and deploying applications in containers, while Kubernetes is an open-source container orchestration system for managing and scaling containerized applications.
 
 Docker provides a simple and efficient way to package an application and its dependencies into a container, making it easy to run consistently across different environments. Containers are lightweight, isolated, and portable, allowing developers to create applications that can be easily moved between development, testing, and production environments.
+
+<img src="https://user-images.githubusercontent.com/89149327/223526390-3b9ec39d-52f5-4ccd-b7fd-6f80bb0112f6.png" alt="example image" width="400">
+
 
 Kubernetes, on the other hand, provides a way to manage multiple containers in a distributed environment. It automates the deployment, scaling, and management of containerized applications, making it easier to run and scale complex applications in a cloud environment. Kubernetes is designed to be highly available, fault-tolerant, and scalable, providing a robust platform for deploying and managing large-scale applications.
 
