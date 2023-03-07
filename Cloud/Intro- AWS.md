@@ -1,10 +1,4 @@
----
-title: '#TechwithAhmed - Cloud'
-published: false
-description: #TechwithAhmed - Cloud
-tags: 'My Cloud Journey, AWS'
----
----
+
 # AWS
 I choose to learn AWS as a cloud provider due to its wide range of services, global infrastructure, scalability, reliability, security, and cost-effectiveness. 
 It is also the most popular cloud provider in the market, offering many job opportunities and resources for learning and certification.
