@@ -1,5 +1,6 @@
+<details>
+ <summary><h3></a> AWS Compute</h3></summary> 
 
-# AWS Compute
 AWS Compute is a suite of cloud-based services offered by Amazon Web Services (AWS) that provides scalable and flexible computing resources. 
 AWS Compute includes a range of services that allow businesses to run applications and services on the cloud, including Amazon Elastic Compute Cloud (EC2), 
 AWS Lambda, AWS Batch, and AWS Elastic Beanstalk.
