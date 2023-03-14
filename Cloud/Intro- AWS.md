@@ -1,6 +1,8 @@
+<details>
+ <summary><h3>  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="200" height="200"/> </h3></summary>
 
-# <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="200" height="200"/>
+
 I choose to learn AWS as a cloud provider due to its wide range of services, global infrastructure, scalability, reliability, security, and cost-effectiveness. 
 It is also the most popular cloud provider in the market, offering many job opportunities and resources for learning and certification.
 # Introduction to Amazon Web Services
