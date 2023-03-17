@@ -12,14 +12,26 @@ Cloud computing is the delivery of computing services, including servers, storag
 ### Types of Cloud Services
 There are three types of cloud services: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
 
-<img src= "https://user-images.githubusercontent.com/89149327/223529937-f5c830e6-9129-4e0a-980f-caee23fd27a0.png" alt="example image" width="500">
+<img src= "https://user-images.githubusercontent.com/89149327/225792661-600dc59f-95e5-414c-b6ab-9a42dfe865f9.png" alt="example image" width="500">
 
 
+1. Infrastructure as a Service (IaaS):
 
+Infrastructure as a Service (IaaS) is the most basic cloud computing model. It provides a virtualized computing infrastructure in the form of servers, storage, and networking resources, which can be accessed over the internet. IaaS allows organizations to outsource the physical infrastructure that would typically be required to run an IT environment, including data centers, servers, storage, and networking equipment.
 
-1. IaaS provides the building blocks of computing infrastructure, such as virtual machines, storage, and networking. 2. 
-2. PaaS is a platform for developing, testing, and deploying applications.
-3. SaaS delivers software applications over the internet, eliminating the need for users to install and run applications on their own computers.
+Examples of IaaS include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform. These services provide virtualized computing infrastructure, including virtual machines, storage, and networking resources. Users can deploy and manage their own operating systems, applications, and databases on top of these resources.
+
+2. Platform as a Service (PaaS):
+
+Platform as a Service (PaaS) provides a higher level of abstraction than IaaS. It provides a complete development and deployment environment in the cloud, which includes operating systems, middleware, and application platforms. PaaS provides a platform for developers to create, test, and deploy applications without worrying about the underlying infrastructure.
+
+Examples of PaaS include Salesforce App Cloud, Google App Engine, and Microsoft Azure App Service. These services provide pre-built application platforms that can be used to build and deploy web applications, mobile applications, and other cloud-based services.
+
+3. Software as a Service (SaaS):
+
+Software as a Service (SaaS) provides a complete software application that is hosted and managed by a third-party provider. Users can access the software over the internet through a web browser or mobile application without having to worry about managing the underlying infrastructure, security, and maintenance.
+
+Examples of SaaS include Microsoft Office 365, Salesforce CRM, and Google Workspace. These services provide users with access to productivity software, customer relationship management software, and collaboration tools without requiring users to manage any infrastructure.
 
 ### Public, Private, and Hybrid Cloud
 Cloud computing services can be delivered in three different ways:
